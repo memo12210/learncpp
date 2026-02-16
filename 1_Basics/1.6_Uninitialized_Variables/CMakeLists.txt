@@ -1,0 +1,1 @@
+add_executable(1.6_uninitialized_variables main.cpp)

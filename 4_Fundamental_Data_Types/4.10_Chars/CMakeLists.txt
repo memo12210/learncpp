@@ -1,0 +1,1 @@
+add_executable(4.10_chars main.cpp)

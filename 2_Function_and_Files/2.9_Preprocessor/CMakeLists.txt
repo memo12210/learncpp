@@ -1,0 +1,1 @@
+add_executable(2.9_preprocessor main.cpp)

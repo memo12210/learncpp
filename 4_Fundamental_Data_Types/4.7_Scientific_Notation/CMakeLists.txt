@@ -1,0 +1,1 @@
+add_executable(4.7_scientific_notation main.cpp)

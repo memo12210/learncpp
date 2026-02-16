@@ -1,0 +1,8 @@
+#add_subdirectory("4.2_Void")
+#add_subdirectory("4.3_Object_Sizes")
+#add_subdirectory("4.4_Signed_Integers")
+#add_subdirectory("4.5_Unsigned_Integers")
+add_subdirectory("4.6_Fixed_Width_Integers")
+add_subdirectory("4.7_Scientific_Notation")
+add_subdirectory("4.8_Floating_Point_Numbers")
+add_subdirectory("4.10_Chars")

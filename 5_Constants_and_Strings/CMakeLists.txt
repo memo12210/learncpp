@@ -1,0 +1,5 @@
+add_subdirectory("5.3_Numeral_Systems")
+add_subdirectory("5.5_Constant_Expressions")
+add_subdirectory("5.6_Constexpr")
+add_subdirectory("5.7_Strings")
+add_subdirectory("5.8_String_View")
