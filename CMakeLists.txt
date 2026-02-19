@@ -11,7 +11,7 @@ set(CMAKE_CXX_SCAN_FOR_MODULES OFF)
 
 include(FetchContent)
 
-# Add plog for "3.4 - Debugging Tactics"
+# Add plog library for "3.4 - Debugging Tactics"
 FetchContent_Declare(
         plog
         GIT_REPOSITORY https://github.com/SergiusTheBest/plog.git
@@ -25,3 +25,4 @@ add_subdirectory("3_Debugging")
 add_subdirectory("4_Fundamental_Data_Types")
 add_subdirectory("5_Constants_and_Strings")
 add_subdirectory("6_Operators")
+add_subdirectory("7_Bit_Manipulation")

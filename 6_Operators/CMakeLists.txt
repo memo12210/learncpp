@@ -1,2 +1,6 @@
 add_subdirectory("6.3_Remainder_and_Exponentiation")
 add_subdirectory("6.4_Increment_and_Decrement")
+add_subdirectory("6.6_Conditional_Operator")
+add_subdirectory("6.7_Relational_Operators")
+add_subdirectory("6.8_Logical_Operators")
+add_subdirectory("ch6_quiz")
