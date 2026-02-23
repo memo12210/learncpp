@@ -1,0 +1,6 @@
+add_subdirectory("8.2_User_Defined_Namespaces")
+add_subdirectory("8.3_Local_Variables")
+add_subdirectory("8.4_Global_Variables")
+add_subdirectory("8.6_Internal_Linkage")
+add_subdirectory("8.7_External_Linkage")
+add_subdirectory("8.8_Inline_Keyword")

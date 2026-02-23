@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 4.2)
+cmake_minimum_required(VERSION 4.0)
 project(learncpp LANGUAGES CXX)
 
 # Set C++ standard to C++23 and disable compiler extensions
@@ -26,3 +26,4 @@ add_subdirectory("4_Fundamental_Data_Types")
 add_subdirectory("5_Constants_and_Strings")
 add_subdirectory("6_Operators")
 add_subdirectory("7_Bit_Manipulation")
+add_subdirectory("8_Scope")
