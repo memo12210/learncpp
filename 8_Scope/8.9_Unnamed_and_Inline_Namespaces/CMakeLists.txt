@@ -1,0 +1,1 @@
+add_executable(8.9_unnamed_and_inline_namespaces main.cpp)
